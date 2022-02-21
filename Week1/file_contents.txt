@@ -1,0 +1,6 @@
+Machine learning is a branch of computer science that studies how to enable computers to solve problems without being explicitly programmed to solve them step-by-step. This field encompasses a variety of methods that are usually divided into supervised, unsupervised, and reinforcement learning methods. Each of these types of ML has its pros and cons. Learning happens by applying algorithms to data. Each of these ML groups use different algorithms. Algorithms in machine learning are instructions for doing a process. They run on data to perform pattern recognition and “learn” from it.
+
+However, today the most hyped algorithms for machine learning are neural networks. These algorithms try to simulate the functioning of a living human brain. They are able to analyze huge amounts of data and extract patterns and rules from it. Different types of neural networks are better suited for solving different tasks.
+
+To deploy algorithms, monitor their performance, and come up with better parameters for their training, we need a scientific field that explains how to do it correctly. Machine learning studies how to build a model that would fit a certain dataset but can also be useful on other datasets. A high-quality model that shows reproducible results is the main output of machine learning.
+
